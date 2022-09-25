@@ -6,19 +6,24 @@ function loadData() {
             let data1 = data.selections;
             console.log(data1);
             // Loop through the data
+            num = 1;
             for (const key in data1) {
                 if (Object.hasOwnProperty.call(data1, key)) {
                     rowData = document.createElement('tr'); 
 
+                    let cell = document.createElement('td');
+                    cell.innerHTML = num;
+                    rowData.appendChild(cell);
+
                     for(i in cols) {
                         let cell = document.createElement('td');
                         cell.innerHTML = data1[key][cols[i]];
-                        console.log()
                         rowData.appendChild(cell);
                     }
 
                     table.appendChild(rowData);
                 }
+                num++;
             }
         }
     );

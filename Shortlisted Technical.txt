@@ -1,0 +1,23 @@
+Day 1:
+Panel 1 - Eswar, Vinay Sri Ram, Gowtham, Khushank
+ = 21341A4238, 21341A0508, 21341A1259, 21341A0547, 21341A0551
+
+Panel 2 - Vinay Viswanadh, Sai Kiran, Surya Prakash, Surya Teja
+ = 21341A0518, 21341A1217(Non Technical), 
+
+Panel 3 - Vinay Sri Ram, Rizwan, Komali
+ = 21341A0522, 21341A1250, 21341A0549
+
+
+Day 2:
+Panel 1 - Eswar, Khushank, Srikanth
+ = 21341A4538, 21341A251, 21341A0531, 21341A1287, 21341A1282
+
+Panel 2 - Sai Kiran, Likash, Suma Latha
+ = Pending
+
+Panel 3 - Vinay Sri Ram, Rizwan, Komali
+ = 21341A1241, 21341A1205
+
+Day 3:
+None

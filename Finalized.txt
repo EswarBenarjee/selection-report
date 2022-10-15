@@ -1,0 +1,13 @@
+CSE A: 21341A0505(tech boy), 21341A0547(CR girl), 21341A0549(tech boy), 21341A0508(tech girl)
+
+CSE B: 21341A0589(non girl)
+
+CSE C: 21341A05I4(tech boy), 21341A05J6(non girl)
+
+CSE AIML: 21341A4255(CR boy), 21341A4230(tech girl), 21341A4238(tech girl) 
+
+CSE AIDS: 21341A4538(tech boy), 21341A4559(behaviour), 
+
+IT A: 21341A1249(tech boy), 21341A1250(tech girl), 21341A1217(non girl), 21341A1205(girl), CR girl(21341A1262)
+
+IT B: 21341A1277(CR girl), 21341A1282(boy)
